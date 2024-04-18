@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1713403545 source:c:\users\user\documents\aaa-misc\lrnc\grades-separate\grade.cpp
+	<stdexcept>
+	<vector>
+	"grade.h"
+	"median.h"
+	"Student_info.h"
+
+1713401708 c:\users\user\documents\aaa-misc\lrnc\grades-separate\grade.h
+	<vector>
+	"Student_info.h"
+
+1713402711 c:\users\user\documents\aaa-misc\lrnc\grades-separate\student_info.h
+	<iostream>
+	<iostream>
+	<vector>
+
+1713400068 c:\users\user\documents\aaa-misc\lrnc\grades-separate\median.h
+	<vector>
+
+1713402489 source:c:\users\user\documents\aaa-misc\lrnc\grades-separate\median.cpp
+	<algorithm>
+	<stdexcept>
+	<vector>
+
+1713403724 source:c:\users\user\documents\aaa-misc\lrnc\grades-separate\student_info.cpp
+	"Student_info.h"
+
+1713402452 source:c:\users\user\documents\aaa-misc\lrnc\grades-separate\main.cpp
+	<algorithm>
+	<iomanip>
+	<ios>
+	<iostream>
+	<stdexcept>
+	<vector>
+	"grade.h"
+	"Student_info.h"
+
